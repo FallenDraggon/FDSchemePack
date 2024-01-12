@@ -1,0 +1,7 @@
+name:"FDSchemePack",
+displayName:"FD Scheme Pack",
+author:"[#fa]Fallen[#0]Dragon",
+description:"Очередной никому ненужный схемпак.",
+version:1.0,
+minGameVersion:146,
+hidden: true
